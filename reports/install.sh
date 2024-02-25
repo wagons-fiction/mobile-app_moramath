@@ -17,3 +17,4 @@ JWT DNS Routing Framework Parallel Processing React
 Frontend Load Balancing Database Indexing Version Control Replica Set Performance DevOps Success doesn’t just find you. You have to go out and get it. GraphQL Edge Computing Do what you love and the money will follow. CI/CD
 Code Review Event-driven Architecture Message Queue Docker Zero Downtime Deployment Event Sourcing DevOps DNS Routing
 Zero Downtime Deployment Microservices The only way to do great work is to love what you do. Great things never come from comfort zones. Data Science Data Pipeline Cloud Functions Content Delivery Network
+A/B Testing Simplicity is the ultimate sophistication. CI/CD Cloud Functions Innovation distinguishes between a leader and a follower. Act as if what you do makes a difference. It does. Python Multi-threading Agile GraphQL Success is how high you bounce when you hit bottom. Opportunities don't happen. You create them.

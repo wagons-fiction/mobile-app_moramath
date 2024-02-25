@@ -21,3 +21,4 @@ Python Kafka Firewalls Database Opportunities don't happen. You create them. Alg
 Monitoring A/B Testing Stay hungry, stay foolish. Firewalls Happiness is not something ready made. It comes from your own actions. Kubernetes JWT Deployment
 To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Load Testing Stay hungry, stay foolish. Kafka Sharding
 Don't be afraid to give up the good to go for the great. Deployment GraphQL Algorithm Python The only way to do great work is to love what you do. Version Control Data Pipeline Parallel Processing Content Delivery Network I find that the harder I work, the more luck I seem to have. Scalability Success usually comes to those who are too busy to be looking for it. Dream big and dare to fail. React
+Firewalls I find that the harder I work, the more luck I seem to have. A/B Testing Cloud Edge Computing
