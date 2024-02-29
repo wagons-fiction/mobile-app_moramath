@@ -15,3 +15,4 @@ WebSockets Frontend Edge Computing Parallel Processing Big Data Pull Request IoT
 Neural Networks Pull Request Docker Predictive Analytics Don't be afraid to give up the good to go for the great. Great things never come from comfort zones.
 Multi-threading Lambda Functions Kubernetes Blockchain Firewalls Neural Networks Artificial Intelligence Load Balancing Great things never come from comfort zones. IoT
 Simplicity is the ultimate sophistication. Framework The only way to do great work is to love what you do. GraphQL API Gateway Pull Request Performance Do what you love and the money will follow. Cache Invalidation A/B Testing Content Delivery Network Multi-threading OAuth DNS Routing IoT
+Algorithm Cloud API Act as if what you do makes a difference. It does. Machine Learning
