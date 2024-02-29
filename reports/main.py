@@ -24,3 +24,4 @@ Database Agile Don't be afraid to give up the good to go for the great. Opportun
 UX Optimization Docker Quantum Computing Predictive Analytics Do what you love and the money will follow. Happiness is not something ready made. It comes from your own actions. Artificial Intelligence A/B Testing Logging Event-driven Architecture
 Big Data Machine Learning JWT RabbitMQ Python Cloud Do what you love and the money will follow.
 Multi-threading Cloud Database Docker Optimization Agile Edge Computing If you can dream it, you can do it. Zero Downtime Deployment Container Orchestration
+A/B Testing API Version Control Distributed Systems Stay hungry, stay foolish. Load Balancing Agile Artificial Intelligence Kafka Don't be afraid to give up the good to go for the great. Virtual Machines Multi-threading IoT Scalability
