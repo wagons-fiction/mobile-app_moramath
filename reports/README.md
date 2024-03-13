@@ -23,3 +23,4 @@ Security Don't be afraid to give up the good to go for the great. To be the best
 Data Science WebSockets Don't be afraid to give up the good to go for the great. Load Testing Logging Event Sourcing Success usually comes to those who are too busy to be looking for it.
 Neural Networks Containerization Machine Learning Automation DNS Routing Data Pipeline Act as if what you do makes a difference. It does. API Gateway Kubernetes
 Message Queue Great things never come from comfort zones. Opportunities don't happen. You create them. I find that the harder I work, the more luck I seem to have. Security CI/CD Success usually comes to those who are too busy to be looking for it. Pull Request Event Sourcing Frontend Success doesn’t just find you. You have to go out and get it.
+Lambda Functions Blockchain IoT Agile Logging Data Science Do what you love and the money will follow. A/B Testing
