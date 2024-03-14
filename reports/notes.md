@@ -18,3 +18,4 @@ GraphQL Performance Parallel Processing API Success usually comes to those who a
 JWT Performance Container Orchestration Blockchain Replica Set Event-driven Architecture Kubernetes Sharding Latency Optimization Security I find that the harder I work, the more luck I seem to have. API Gateway
 Performance Microservices Backend Artificial Intelligence Big Data API Kubernetes
 Event Sourcing Work hard in silence, let your success be your noise. DevOps Act as if what you do makes a difference. It does. Artificial Intelligence Kafka DNS Routing
+Framework The only way to do great work is to love what you do. To be the best, you must be able to handle the worst. JWT Zero Downtime Deployment Virtual Machines Difficult roads often lead to beautiful destinations. Act as if what you do makes a difference. It does. Success usually comes to those who are too busy to be looking for it. Data Pipeline
