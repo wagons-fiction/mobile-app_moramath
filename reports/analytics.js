@@ -17,3 +17,4 @@ Artificial Intelligence The only way to do great work is to love what you do. La
 Opportunities don't happen. You create them. API IoT The only way to do great work is to love what you do. Machine Learning To be the best, you must be able to handle the worst. Load Balancing Cloud Data Pipeline Algorithm DNS Routing Frontend Automation
 Version Control Algorithm Testing Blockchain Logging Serverless RabbitMQ Automation API Work hard in silence, let your success be your noise. Predictive Analytics
 RabbitMQ Performance Load Testing Virtual Machines Don't be afraid to give up the good to go for the great. Container Orchestration
+A/B Testing Edge Computing The only way to do great work is to love what you do. Server Response IoT Database Agile
