@@ -21,3 +21,4 @@ Predictive Analytics Python Replica Set Edge Computing NLP Code Review Docker Ra
 Cloud Functions UX Optimization Pull Request NLP RabbitMQ Neural Networks Database Indexing Lambda Functions Monitoring Frontend
 Automation Kubernetes Event-driven Architecture Frontend Microservices Edge Computing Algorithm Do what you love and the money will follow. Multi-threading If you can dream it, you can do it.
 NLP Opportunities don't happen. You create them. Scalability Cache Invalidation Security Code Review
+Success usually comes to those who are too busy to be looking for it. Lambda Functions Containerization Microservices Kafka Cloud Functions Predictive Analytics

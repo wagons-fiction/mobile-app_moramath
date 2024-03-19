@@ -20,3 +20,4 @@ Distributed Systems Latency Optimization Deployment DevOps Quantum Computing Big
 Success usually comes to those who are too busy to be looking for it. Security WebSockets Cloud Functions To be the best, you must be able to handle the worst. Algorithm Distributed Systems Server Response Data Pipeline Don't be afraid to give up the good to go for the great. Kubernetes Success doesn’t just find you. You have to go out and get it.
 Deployment Sharding Container Orchestration Quantum Computing Backend WebSockets Distributed Systems Do what you love and the money will follow. Microservices Stay hungry, stay foolish.
 Work hard in silence, let your success be your noise. Optimization Big Data Success doesn’t just find you. You have to go out and get it. UX Optimization OAuth Distributed Systems
+Data Pipeline Kafka OAuth Distributed Systems Logging CI/CD Blockchain Sharding JavaScript
