@@ -23,3 +23,4 @@ Latency Optimization Success doesn’t just find you. You have to go out and get i
 Logging Event-driven Architecture Database Frontend Code Review Load Testing GraphQL
 Event-driven Architecture Code Review Message Queue Don't be afraid to give up the good to go for the great. Latency Optimization A/B Testing Kafka
 The only way to do great work is to love what you do. Neural Networks Sharding Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Database Indexing Version Control
+Frontend Cache Invalidation Cloud Functions I find that the harder I work, the more luck I seem to have. WebSockets Docker API Gateway Innovation distinguishes between a leader and a follower. DNS Routing Big Data OAuth Content Delivery Network
