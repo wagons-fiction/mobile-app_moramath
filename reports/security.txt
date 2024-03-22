@@ -23,3 +23,4 @@ Don't be afraid to give up the good to go for the great. Optimization Frontend E
 Event-driven Architecture Work hard in silence, let your success be your noise. Zero Downtime Deployment Act as if what you do makes a difference. It does. Cache Invalidation Database
 Code Review NLP Logging Testing Act as if what you do makes a difference. It does. Sharding Blockchain
 API JWT Edge Computing Blockchain IoT Database Python Stay hungry, stay foolish. Cache Invalidation Neural Networks Automation Event Sourcing Deployment
+Replica Set Code Review Big Data A/B Testing Event Sourcing The only way to do great work is to love what you do. UX Optimization CI/CD Kafka Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. WebSockets
