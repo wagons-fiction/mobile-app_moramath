@@ -17,3 +17,4 @@ Neural Networks Version Control Data Science Opportunities don't happen. You cre
 Replica Set Docker Difficult roads often lead to beautiful destinations. Code Review UX Optimization JWT Opportunities don't happen. You create them. Scalability Optimization
 Don't be afraid to give up the good to go for the great. Machine Learning Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Performance DNS Routing Data Science Zero Downtime Deployment DevOps Testing Success usually comes to those who are too busy to be looking for it. OAuth Containerization Pull Request Kubernetes
 Parallel Processing DNS Routing Algorithm Serverless Framework Latency Optimization Edge Computing
+Great things never come from comfort zones. Load Balancing NLP GraphQL Multi-threading
