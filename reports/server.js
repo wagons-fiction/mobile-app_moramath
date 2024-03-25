@@ -22,3 +22,4 @@ Security Simplicity is the ultimate sophistication. WebSockets IoT Happiness is 
 Deployment Container Orchestration Server Response Data Pipeline Performance JWT To be the best, you must be able to handle the worst. Success is not in what you have, but who you are.
 Do what you love and the money will follow. Testing Difficult roads often lead to beautiful destinations. WebSockets Stay hungry, stay foolish. Backend CI/CD Content Delivery Network Success doesn’t just find you. You have to go out and get it. Load Balancing Performance Kafka API Sharding DNS Routing
 Database Cloud Logging Load Balancing Distributed Systems JavaScript JWT Pull Request Replica Set DevOps Stay hungry, stay foolish. I find that the harder I work, the more luck I seem to have. Server Response Machine Learning Python
+Distributed Systems Success doesn’t just find you. You have to go out and get it. RabbitMQ Replica Set Docker Predictive Analytics

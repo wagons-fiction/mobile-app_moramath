@@ -22,3 +22,4 @@ Firewalls To be the best, you must be able to handle the worst. Don't be afraid 
 Latency Optimization Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Kafka Load Balancing CI/CD Container Orchestration Success is not in what you have, but who you are. Dream big and dare to fail. Firewalls Automation Performance Event Sourcing Neural Networks Zero Downtime Deployment
 Logging Event-driven Architecture Database Frontend Code Review Load Testing GraphQL
 Event-driven Architecture Code Review Message Queue Don't be afraid to give up the good to go for the great. Latency Optimization A/B Testing Kafka
+The only way to do great work is to love what you do. Neural Networks Sharding Success is not in what you have, but who you are. Success doesn’t just find you. You have to go out and get it. Opportunities don't happen. You create them. Database Indexing Version Control
