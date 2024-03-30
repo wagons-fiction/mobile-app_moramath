@@ -21,3 +21,4 @@ Message Queue CI/CD Act as if what you do makes a difference. It does. Virtual M
 Database Indexing Cloud Agile Optimization Load Balancing Message Queue Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Monitoring Code Review Serverless Automation Neural Networks Database
 Don't be afraid to give up the good to go for the great. Optimization Frontend Event-driven Architecture Lambda Functions Event Sourcing API RabbitMQ
 Event-driven Architecture Work hard in silence, let your success be your noise. Zero Downtime Deployment Act as if what you do makes a difference. It does. Cache Invalidation Database
+Code Review NLP Logging Testing Act as if what you do makes a difference. It does. Sharding Blockchain
