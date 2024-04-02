@@ -20,3 +20,4 @@ Neural Networks Logging Pull Request Work hard in silence, let your success be y
 Dream big and dare to fail. API Success is not in what you have, but who you are. Cache Invalidation Replica Set A/B Testing Database Indexing
 Security Simplicity is the ultimate sophistication. WebSockets IoT Happiness is not something ready made. It comes from your own actions.
 Deployment Container Orchestration Server Response Data Pipeline Performance JWT To be the best, you must be able to handle the worst. Success is not in what you have, but who you are.
+Do what you love and the money will follow. Testing Difficult roads often lead to beautiful destinations. WebSockets Stay hungry, stay foolish. Backend CI/CD Content Delivery Network Success doesn’t just find you. You have to go out and get it. Load Balancing Performance Kafka API Sharding DNS Routing
