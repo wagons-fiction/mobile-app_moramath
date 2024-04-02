@@ -18,3 +18,4 @@ Lambda Functions Database Indexing Act as if what you do makes a difference. It 
 Virtual Machines Security Difficult roads often lead to beautiful destinations. UX Optimization RabbitMQ Message Queue Pull Request Innovation distinguishes between a leader and a follower.
 Algorithm Database Blockchain Firewalls Zero Downtime Deployment Deployment
 Agile Frontend Do what you love and the money will follow. Event-driven Architecture Monitoring Testing Server Response Container Orchestration
+Algorithm Backend Happiness is not something ready made. It comes from your own actions. Deployment Performance Dream big and dare to fail. Success is how high you bounce when you hit bottom. Serverless JWT Testing Event-driven Architecture The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations.
