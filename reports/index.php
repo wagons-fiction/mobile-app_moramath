@@ -20,3 +20,4 @@ DNS Routing Data Science Parallel Processing Code Review Stay hungry, stay fooli
 Predictive Analytics Python Replica Set Edge Computing NLP Code Review Docker RabbitMQ Quantum Computing Success usually comes to those who are too busy to be looking for it. Security IoT Version Control Message Queue
 Cloud Functions UX Optimization Pull Request NLP RabbitMQ Neural Networks Database Indexing Lambda Functions Monitoring Frontend
 Automation Kubernetes Event-driven Architecture Frontend Microservices Edge Computing Algorithm Do what you love and the money will follow. Multi-threading If you can dream it, you can do it.
+NLP Opportunities don't happen. You create them. Scalability Cache Invalidation Security Code Review
