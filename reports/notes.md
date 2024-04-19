@@ -16,3 +16,4 @@ Stay hungry, stay foolish. Do what you love and the money will follow. Firewalls
 Cloud Functions JavaScript Neural Networks Lambda Functions Event Sourcing
 GraphQL Performance Parallel Processing API Success usually comes to those who are too busy to be looking for it. Kafka Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom.
 JWT Performance Container Orchestration Blockchain Replica Set Event-driven Architecture Kubernetes Sharding Latency Optimization Security I find that the harder I work, the more luck I seem to have. API Gateway
+Performance Microservices Backend Artificial Intelligence Big Data API Kubernetes

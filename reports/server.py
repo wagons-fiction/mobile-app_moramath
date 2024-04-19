@@ -19,3 +19,4 @@ WebSockets Lambda Functions Sharding Event Sourcing Server Response Cloud Automa
 Don't be afraid to give up the good to go for the great. Cloud Functions Data Pipeline Server Response Stay hungry, stay foolish. Distributed Systems Deployment RabbitMQ Edge Computing
 Python Kafka Firewalls Database Opportunities don't happen. You create them. Algorithm Data Pipeline Automation JavaScript Pull Request Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Great things never come from comfort zones. Database Indexing
 Monitoring A/B Testing Stay hungry, stay foolish. Firewalls Happiness is not something ready made. It comes from your own actions. Kubernetes JWT Deployment
+To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Load Testing Stay hungry, stay foolish. Kafka Sharding
