@@ -19,3 +19,4 @@ Success doesn’t just find you. You have to go out and get it. GraphQL DNS Routin
 WebSockets Sharding Version Control Neural Networks Big Data Scalability Message Queue NLP Database Indexing Zero Downtime Deployment Lambda Functions
 Message Queue CI/CD Act as if what you do makes a difference. It does. Virtual Machines Agile
 Database Indexing Cloud Agile Optimization Load Balancing Message Queue Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Monitoring Code Review Serverless Automation Neural Networks Database
+Don't be afraid to give up the good to go for the great. Optimization Frontend Event-driven Architecture Lambda Functions Event Sourcing API RabbitMQ
