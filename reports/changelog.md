@@ -17,3 +17,4 @@ Predictive Analytics Machine Learning DNS Routing IoT To be the best, you must b
 JavaScript Algorithm Data Science Artificial Intelligence Cache Invalidation Work hard in silence, let your success be your noise. Framework Latency Optimization
 The only way to do great work is to love what you do. WebSockets Predictive Analytics Database Optimization
 WebSockets Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Event-driven Architecture Big Data Firewalls Load Balancing Content Delivery Network React
+Innovation distinguishes between a leader and a follower. Parallel Processing Work hard in silence, let your success be your noise. Virtual Machines Lambda Functions CI/CD Python Frontend Great things never come from comfort zones. Cloud Functions Docker Dream big and dare to fail.
