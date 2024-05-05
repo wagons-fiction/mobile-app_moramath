@@ -17,3 +17,4 @@ Load Testing Parallel Processing IoT Work hard in silence, let your success be y
 Server Response UX Optimization Agile Microservices Frontend A/B Testing Parallel Processing DevOps
 WebSockets Lambda Functions Sharding Event Sourcing Server Response Cloud Automation
 Don't be afraid to give up the good to go for the great. Cloud Functions Data Pipeline Server Response Stay hungry, stay foolish. Distributed Systems Deployment RabbitMQ Edge Computing
+Python Kafka Firewalls Database Opportunities don't happen. You create them. Algorithm Data Pipeline Automation JavaScript Pull Request Happiness is not something ready made. It comes from your own actions. Act as if what you do makes a difference. It does. Great things never come from comfort zones. Database Indexing

@@ -13,3 +13,4 @@ Deployment Monitoring DevOps Agile Framework Load Testing Lambda Functions Micro
 IoT Success usually comes to those who are too busy to be looking for it. DNS Routing API Gateway Security WebSockets Distributed Systems JavaScript Sharding Lambda Functions OAuth Event-driven Architecture Virtual Machines RabbitMQ
 WebSockets Frontend Edge Computing Parallel Processing Big Data Pull Request IoT DevOps Firewalls Optimization NLP Sharding Machine Learning Zero Downtime Deployment Neural Networks
 Neural Networks Pull Request Docker Predictive Analytics Don't be afraid to give up the good to go for the great. Great things never come from comfort zones.
+Multi-threading Lambda Functions Kubernetes Blockchain Firewalls Neural Networks Artificial Intelligence Load Balancing Great things never come from comfort zones. IoT
