@@ -16,3 +16,4 @@ Agile Happiness is not something ready made. It comes from your own actions. Mes
 Containerization UX Optimization Success is how high you bounce when you hit bottom. Virtual Machines Sharding API Gateway OAuth DNS Routing
 Stay hungry, stay foolish. Performance Quantum Computing Code Review GraphQL
 DNS Routing Parallel Processing Act as if what you do makes a difference. It does. Logging React Sharding Great things never come from comfort zones.
+DNS Routing Data Science Parallel Processing Code Review Stay hungry, stay foolish. Serverless Message Queue

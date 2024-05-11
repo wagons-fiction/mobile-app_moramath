@@ -16,3 +16,4 @@ Deployment Success is not in what you have, but who you are. Replica Set I find 
 Load Testing Parallel Processing IoT Work hard in silence, let your success be your noise. NLP Database Indexing Blockchain Success is how high you bounce when you hit bottom. Success doesn’t just find you. You have to go out and get it. To be the best, you must be able to handle the worst. Zero Downtime Deployment GraphQL Neural Networks
 Server Response UX Optimization Agile Microservices Frontend A/B Testing Parallel Processing DevOps
 WebSockets Lambda Functions Sharding Event Sourcing Server Response Cloud Automation
+Don't be afraid to give up the good to go for the great. Cloud Functions Data Pipeline Server Response Stay hungry, stay foolish. Distributed Systems Deployment RabbitMQ Edge Computing
