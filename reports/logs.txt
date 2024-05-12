@@ -12,3 +12,4 @@ Event Sourcing Frontend Act as if what you do makes a difference. It does. Monit
 Deployment Monitoring DevOps Agile Framework Load Testing Lambda Functions Microservices Version Control Machine Learning Do what you love and the money will follow. GraphQL Kubernetes Container Orchestration
 IoT Success usually comes to those who are too busy to be looking for it. DNS Routing API Gateway Security WebSockets Distributed Systems JavaScript Sharding Lambda Functions OAuth Event-driven Architecture Virtual Machines RabbitMQ
 WebSockets Frontend Edge Computing Parallel Processing Big Data Pull Request IoT DevOps Firewalls Optimization NLP Sharding Machine Learning Zero Downtime Deployment Neural Networks
+Neural Networks Pull Request Docker Predictive Analytics Don't be afraid to give up the good to go for the great. Great things never come from comfort zones.

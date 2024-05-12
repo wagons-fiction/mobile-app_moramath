@@ -16,3 +16,4 @@ Version Control If you can dream it, you can do it. Success usually comes to tho
 Predictive Analytics Machine Learning DNS Routing IoT To be the best, you must be able to handle the worst. Database Replica Set Parallel Processing Act as if what you do makes a difference. It does. UX Optimization Framework Monitoring
 JavaScript Algorithm Data Science Artificial Intelligence Cache Invalidation Work hard in silence, let your success be your noise. Framework Latency Optimization
 The only way to do great work is to love what you do. WebSockets Predictive Analytics Database Optimization
+WebSockets Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Event-driven Architecture Big Data Firewalls Load Balancing Content Delivery Network React
