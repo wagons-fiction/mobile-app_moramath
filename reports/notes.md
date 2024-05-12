@@ -14,3 +14,4 @@ Simplicity is the ultimate sophistication. Cache Invalidation Content Delivery N
 Replica Set Sharding Firewalls RabbitMQ Kubernetes Difficult roads often lead to beautiful destinations. Zero Downtime Deployment Event-driven Architecture Machine Learning
 Stay hungry, stay foolish. Do what you love and the money will follow. Firewalls Optimization Latency Optimization Cache Invalidation Kafka Database Security
 Cloud Functions JavaScript Neural Networks Lambda Functions Event Sourcing
+GraphQL Performance Parallel Processing API Success usually comes to those who are too busy to be looking for it. Kafka Don't be afraid to give up the good to go for the great. Success is how high you bounce when you hit bottom.

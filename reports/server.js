@@ -18,3 +18,4 @@ UX Optimization Success is not in what you have, but who you are. Work hard in s
 Difficult roads often lead to beautiful destinations. The only way to do great work is to love what you do. Logging Success doesn’t just find you. You have to go out and get it. Big Data Simplicity is the ultimate sophistication. Algorithm Pull Request Blockchain
 Neural Networks Logging Pull Request Work hard in silence, let your success be your noise. Automation Firewalls Algorithm To be the best, you must be able to handle the worst. JavaScript If you can dream it, you can do it. Load Testing Scalability Docker Success is not in what you have, but who you are. Distributed Systems
 Dream big and dare to fail. API Success is not in what you have, but who you are. Cache Invalidation Replica Set A/B Testing Database Indexing
+Security Simplicity is the ultimate sophistication. WebSockets IoT Happiness is not something ready made. It comes from your own actions.
