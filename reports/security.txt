@@ -18,3 +18,4 @@ Distributed Systems A/B Testing Neural Networks WebSockets Testing Load Testing 
 Success doesn’t just find you. You have to go out and get it. GraphQL DNS Routing Cache Invalidation JWT Pull Request Serverless Firewalls
 WebSockets Sharding Version Control Neural Networks Big Data Scalability Message Queue NLP Database Indexing Zero Downtime Deployment Lambda Functions
 Message Queue CI/CD Act as if what you do makes a difference. It does. Virtual Machines Agile
+Database Indexing Cloud Agile Optimization Load Balancing Message Queue Zero Downtime Deployment Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Monitoring Code Review Serverless Automation Neural Networks Database
