@@ -15,3 +15,4 @@ Data Pipeline Great things never come from comfort zones. Version Control Python
 Load Testing Quantum Computing Kafka Framework CI/CD Replica Set OAuth Container Orchestration If you can dream it, you can do it. Distributed Systems The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Logging Dream big and dare to fail.
 Automation GraphQL Act as if what you do makes a difference. It does. Monitoring Docker The only way to do great work is to love what you do. Version Control Logging
 Success is how high you bounce when you hit bottom. To be the best, you must be able to handle the worst. Latency Optimization Event Sourcing Load Balancing Database Indexing Python GraphQL
+OAuth Kubernetes Performance Version Control Don't be afraid to give up the good to go for the great. Docker
