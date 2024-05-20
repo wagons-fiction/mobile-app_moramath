@@ -24,3 +24,4 @@ NLP DNS Routing Opportunities don't happen. You create them. Security Monitoring
 Logging Dream big and dare to fail. Python Edge Computing Kubernetes Stay hungry, stay foolish. Database Sharding Success is not in what you have, but who you are. Version Control
 Data Pipeline Blockchain Testing Simplicity is the ultimate sophistication. Scalability Version Control Serverless DNS Routing NLP UX Optimization Predictive Analytics Great things never come from comfort zones. Latency Optimization OAuth
 Don't be afraid to give up the good to go for the great. Replica Set Edge Computing Artificial Intelligence API Gateway Kubernetes Performance Dream big and dare to fail. Logging OAuth Event Sourcing Testing
+Event-driven Architecture Success is how high you bounce when you hit bottom. API Gateway The only way to do great work is to love what you do. DNS Routing Pull Request To be the best, you must be able to handle the worst. Parallel Processing

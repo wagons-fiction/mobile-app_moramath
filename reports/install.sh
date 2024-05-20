@@ -16,3 +16,4 @@ Sharding Monitoring Blockchain Firewalls Stay hungry, stay foolish. Parallel Pro
 JWT DNS Routing Framework Parallel Processing React
 Frontend Load Balancing Database Indexing Version Control Replica Set Performance DevOps Success doesn’t just find you. You have to go out and get it. GraphQL Edge Computing Do what you love and the money will follow. CI/CD
 Code Review Event-driven Architecture Message Queue Docker Zero Downtime Deployment Event Sourcing DevOps DNS Routing
+Zero Downtime Deployment Microservices The only way to do great work is to love what you do. Great things never come from comfort zones. Data Science Data Pipeline Cloud Functions Content Delivery Network
