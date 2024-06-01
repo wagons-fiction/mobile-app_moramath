@@ -11,3 +11,4 @@ Code Review Database Agile DevOps Big Data Opportunities don't happen. You creat
 I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. React Algorithm Cloud Data Science Quantum Computing WebSockets
 Big Data Algorithm Lambda Functions Load Balancing Artificial Intelligence Framework Success is not in what you have, but who you are.
 Machine Learning Framework Blockchain Latency Optimization Testing A/B Testing IoT Dream big and dare to fail. Version Control Data Pipeline Edge Computing Cloud Big Data
+Opportunities don't happen. You create them. OAuth Success is how high you bounce when you hit bottom. Event Sourcing Cloud Functions Data Pipeline Blockchain Load Testing JavaScript Success usually comes to those who are too busy to be looking for it. Containerization

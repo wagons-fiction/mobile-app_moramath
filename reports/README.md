@@ -15,3 +15,4 @@ Code Review Microservices Server Response Parallel Processing Monitoring OAuth A
 Container Orchestration Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Cloud IoT Kubernetes
 Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Cloud Functions Predictive Analytics Do what you love and the money will follow. If you can dream it, you can do it. Blockchain Artificial Intelligence Security
 Lambda Functions Database Indexing Act as if what you do makes a difference. It does. OAuth Replica Set Serverless
+Virtual Machines Security Difficult roads often lead to beautiful destinations. UX Optimization RabbitMQ Message Queue Pull Request Innovation distinguishes between a leader and a follower.
