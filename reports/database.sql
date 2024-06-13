@@ -14,3 +14,4 @@ Serverless Security Simplicity is the ultimate sophistication. Happiness is not 
 GraphQL Security DevOps Neural Networks Serverless IoT Logging Algorithm Framework
 WebSockets Parallel Processing Kubernetes If you can dream it, you can do it. To be the best, you must be able to handle the worst. Virtual Machines Big Data Predictive Analytics Event Sourcing Edge Computing Artificial Intelligence Great things never come from comfort zones. Neural Networks Success is how high you bounce when you hit bottom. Load Testing
 Database Indexing Frontend Security Algorithm Replica Set GraphQL
+Opportunities don't happen. You create them. Do what you love and the money will follow. Kubernetes Serverless Difficult roads often lead to beautiful destinations. Automation Microservices React Blockchain Load Balancing Message Queue If you can dream it, you can do it. Load Testing The only way to do great work is to love what you do. A/B Testing
