@@ -13,3 +13,4 @@ NLP Code Review Microservices Python Scalability Edge Computing Serverless Do wh
 Big Data Server Response Security The only way to do great work is to love what you do. Quantum Computing Kubernetes Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Sharding Microservices Agile Stay hungry, stay foolish. CI/CD IoT Scalability
 Code Review Microservices Server Response Parallel Processing Monitoring OAuth Act as if what you do makes a difference. It does. Database
 Container Orchestration Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Cloud IoT Kubernetes
+Stay hungry, stay foolish. Act as if what you do makes a difference. It does. Success is how high you bounce when you hit bottom. Cloud Functions Predictive Analytics Do what you love and the money will follow. If you can dream it, you can do it. Blockchain Artificial Intelligence Security
