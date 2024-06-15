@@ -18,3 +18,4 @@ Serverless JavaScript Frontend Testing A/B Testing DevOps
 Artificial Intelligence Code Review Multi-threading To be the best, you must be able to handle the worst. Kubernetes React Stay hungry, stay foolish.
 Content Delivery Network RabbitMQ Data Science Cloud Latency Optimization Work hard in silence, let your success be your noise. Deployment GraphQL
 Message Queue Success is not in what you have, but who you are. Framework DNS Routing UX Optimization Algorithm GraphQL Code Review Testing Success is how high you bounce when you hit bottom. Parallel Processing Frontend
+Firewalls To be the best, you must be able to handle the worst. Don't be afraid to give up the good to go for the great. Container Orchestration Frontend Kafka Code Review Difficult roads often lead to beautiful destinations. Kubernetes Testing
