@@ -13,3 +13,4 @@ Virtual Machines React Machine Learning DevOps Scalability JavaScript Simplicity
 Serverless Security Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Sharding Content Delivery Network Message Queue A/B Testing Success is not in what you have, but who you are. Data Pipeline
 GraphQL Security DevOps Neural Networks Serverless IoT Logging Algorithm Framework
 WebSockets Parallel Processing Kubernetes If you can dream it, you can do it. To be the best, you must be able to handle the worst. Virtual Machines Big Data Predictive Analytics Event Sourcing Edge Computing Artificial Intelligence Great things never come from comfort zones. Neural Networks Success is how high you bounce when you hit bottom. Load Testing
+Database Indexing Frontend Security Algorithm Replica Set GraphQL
