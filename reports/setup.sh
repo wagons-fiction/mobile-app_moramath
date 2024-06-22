@@ -15,3 +15,4 @@ IoT Serverless Database Containerization DevOps GraphQL Simplicity is the ultima
 Performance Serverless I find that the harder I work, the more luck I seem to have. UX Optimization Logging Quantum Computing
 Neural Networks Version Control Data Science Opportunities don't happen. You create them. Replica Set Event Sourcing
 Replica Set Docker Difficult roads often lead to beautiful destinations. Code Review UX Optimization JWT Opportunities don't happen. You create them. Scalability Optimization
+Don't be afraid to give up the good to go for the great. Machine Learning Success is not in what you have, but who you are. Act as if what you do makes a difference. It does. Performance DNS Routing Data Science Zero Downtime Deployment DevOps Testing Success usually comes to those who are too busy to be looking for it. OAuth Containerization Pull Request Kubernetes
