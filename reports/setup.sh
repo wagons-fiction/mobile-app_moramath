@@ -14,3 +14,4 @@ Version Control Opportunities don't happen. You create them. Data Pipeline Quant
 IoT Serverless Database Containerization DevOps GraphQL Simplicity is the ultimate sophistication.
 Performance Serverless I find that the harder I work, the more luck I seem to have. UX Optimization Logging Quantum Computing
 Neural Networks Version Control Data Science Opportunities don't happen. You create them. Replica Set Event Sourcing
+Replica Set Docker Difficult roads often lead to beautiful destinations. Code Review UX Optimization JWT Opportunities don't happen. You create them. Scalability Optimization
