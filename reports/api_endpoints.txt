@@ -22,3 +22,4 @@ Monitoring DevOps Machine Learning UX Optimization Database Indexing
 Containerization Load Testing The only way to do great work is to love what you do. Scalability Kafka Data Pipeline
 NLP DNS Routing Opportunities don't happen. You create them. Security Monitoring Kubernetes API Gateway Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. JWT Data Science
 Logging Dream big and dare to fail. Python Edge Computing Kubernetes Stay hungry, stay foolish. Database Sharding Success is not in what you have, but who you are. Version Control
+Data Pipeline Blockchain Testing Simplicity is the ultimate sophistication. Scalability Version Control Serverless DNS Routing NLP UX Optimization Predictive Analytics Great things never come from comfort zones. Latency Optimization OAuth

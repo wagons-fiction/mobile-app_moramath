@@ -12,3 +12,4 @@ Python Blockchain IoT Data Science Lambda Functions Cloud Functions Database Ind
 NLP Code Review Microservices Python Scalability Edge Computing Serverless Do what you love and the money will follow. Cloud
 Big Data Server Response Security The only way to do great work is to love what you do. Quantum Computing Kubernetes Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Sharding Microservices Agile Stay hungry, stay foolish. CI/CD IoT Scalability
 Code Review Microservices Server Response Parallel Processing Monitoring OAuth Act as if what you do makes a difference. It does. Database
+Container Orchestration Don't be afraid to give up the good to go for the great. Stay hungry, stay foolish. Cloud IoT Kubernetes
