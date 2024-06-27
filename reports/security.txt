@@ -15,3 +15,4 @@ DevOps Difficult roads often lead to beautiful destinations. NLP Great things ne
 Sharding Difficult roads often lead to beautiful destinations. Agile Kubernetes Framework Frontend Blockchain Lambda Functions Data Science Success is not in what you have, but who you are. Firewalls React
 The only way to do great work is to love what you do. Optimization Server Response Load Balancing Difficult roads often lead to beautiful destinations. API Deployment Blockchain Data Science Distributed Systems Serverless
 Distributed Systems A/B Testing Neural Networks WebSockets Testing Load Testing Containerization Version Control Deployment Do what you love and the money will follow. Content Delivery Network IoT Python
+Success doesn’t just find you. You have to go out and get it. GraphQL DNS Routing Cache Invalidation JWT Pull Request Serverless Firewalls
