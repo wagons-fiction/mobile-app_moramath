@@ -19,3 +19,4 @@ WebSockets Pull Request Data Science If you can dream it, you can do it. Serverl
 Containerization Optimization Pull Request Zero Downtime Deployment Container Orchestration I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Docker Multi-threading
 Success is not in what you have, but who you are. Database Indexing Algorithm DNS Routing Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment
 Serverless Scalability Microservices Neural Networks Lambda Functions Success is how high you bounce when you hit bottom.
+Work hard in silence, let your success be your noise. Event Sourcing Containerization Great things never come from comfort zones. Predictive Analytics Firewalls Innovation distinguishes between a leader and a follower. RabbitMQ Success usually comes to those who are too busy to be looking for it. IoT Algorithm Python Agile A/B Testing API Gateway
