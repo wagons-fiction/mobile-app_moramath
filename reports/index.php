@@ -13,3 +13,4 @@ Algorithm Content Delivery Network Big Data RabbitMQ OAuth Kafka Scalability Dat
 Great things never come from comfort zones. Opportunities don't happen. You create them. Database Indexing Cloud Functions Data Pipeline
 WebSockets API Gateway Serverless RabbitMQ Success is how high you bounce when you hit bottom. Big Data Distributed Systems Code Review Act as if what you do makes a difference. It does. Parallel Processing
 Agile Happiness is not something ready made. It comes from your own actions. Message Queue I find that the harder I work, the more luck I seem to have. Replica Set Microservices The only way to do great work is to love what you do. Cloud Functions API Gateway Multi-threading A/B Testing Blockchain If you can dream it, you can do it. Frontend
+Containerization UX Optimization Success is how high you bounce when you hit bottom. Virtual Machines Sharding API Gateway OAuth DNS Routing
