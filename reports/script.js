@@ -9,3 +9,4 @@ OAuth DevOps Logging Simplicity is the ultimate sophistication. API Data Science
 WebSockets Message Queue Virtual Machines NLP Act as if what you do makes a difference. It does. JavaScript UX Optimization DNS Routing Kafka
 Code Review Database Agile DevOps Big Data Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Virtual Machines
 I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. React Algorithm Cloud Data Science Quantum Computing WebSockets
+Big Data Algorithm Lambda Functions Load Balancing Artificial Intelligence Framework Success is not in what you have, but who you are.
