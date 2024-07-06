@@ -20,3 +20,4 @@ Act as if what you do makes a difference. It does. Microservices Zero Downtime D
 JWT Frontend Load Balancing Logging Kafka The only way to do great work is to love what you do. Opportunities don't happen. You create them. OAuth Deployment Python Event-driven Architecture
 Monitoring DevOps Machine Learning UX Optimization Database Indexing
 Containerization Load Testing The only way to do great work is to love what you do. Scalability Kafka Data Pipeline
+NLP DNS Routing Opportunities don't happen. You create them. Security Monitoring Kubernetes API Gateway Dream big and dare to fail. I find that the harder I work, the more luck I seem to have. JWT Data Science

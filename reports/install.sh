@@ -14,3 +14,4 @@ Server Response Content Delivery Network Load Balancing JavaScript RabbitMQ IoT
 Containerization NLP Kubernetes Performance Database Latency Optimization Algorithm RabbitMQ Serverless Sharding
 Sharding Monitoring Blockchain Firewalls Stay hungry, stay foolish. Parallel Processing Do what you love and the money will follow. Kafka Act as if what you do makes a difference. It does. Big Data Algorithm Pull Request
 JWT DNS Routing Framework Parallel Processing React
+Frontend Load Balancing Database Indexing Version Control Replica Set Performance DevOps Success doesn’t just find you. You have to go out and get it. GraphQL Edge Computing Do what you love and the money will follow. CI/CD
