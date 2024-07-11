@@ -12,3 +12,4 @@ API Don't be afraid to give up the good to go for the great. Machine Learning Ar
 Version Control Firewalls Difficult roads often lead to beautiful destinations. Optimization Microservices
 Great things never come from comfort zones. Cloud Functions Event-driven Architecture Database Quantum Computing Version Control Load Balancing API Gateway Frontend Containerization If you can dream it, you can do it. UX Optimization Server Response Simplicity is the ultimate sophistication.
 OAuth Monitoring Machine Learning Code Review Python DevOps A/B Testing
+Deployment Success is not in what you have, but who you are. Replica Set I find that the harder I work, the more luck I seem to have. Logging Load Testing Server Response DevOps Containerization Difficult roads often lead to beautiful destinations.
