@@ -17,3 +17,4 @@ DNS Routing Python Testing Cloud UX Optimization Framework To be the best, you m
 Success is how high you bounce when you hit bottom. Predictive Analytics Frontend Great things never come from comfort zones. DNS Routing Parallel Processing Agile Automation Happiness is not something ready made. It comes from your own actions. Opportunities don't happen. You create them.
 WebSockets Pull Request Data Science If you can dream it, you can do it. Serverless NLP Version Control Event-driven Architecture Database Stay hungry, stay foolish. Data Pipeline Cache Invalidation
 Containerization Optimization Pull Request Zero Downtime Deployment Container Orchestration I find that the harder I work, the more luck I seem to have. Opportunities don't happen. You create them. Docker Multi-threading
+Success is not in what you have, but who you are. Database Indexing Algorithm DNS Routing Success usually comes to those who are too busy to be looking for it. Zero Downtime Deployment
