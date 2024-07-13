@@ -12,3 +12,4 @@ RabbitMQ Cloud Frontend Innovation distinguishes between a leader and a follower
 Content Delivery Network Great things never come from comfort zones. To be the best, you must be able to handle the worst. Kubernetes I find that the harder I work, the more luck I seem to have.
 Server Response Content Delivery Network Load Balancing JavaScript RabbitMQ IoT
 Containerization NLP Kubernetes Performance Database Latency Optimization Algorithm RabbitMQ Serverless Sharding
+Sharding Monitoring Blockchain Firewalls Stay hungry, stay foolish. Parallel Processing Do what you love and the money will follow. Kafka Act as if what you do makes a difference. It does. Big Data Algorithm Pull Request

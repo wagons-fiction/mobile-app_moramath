@@ -19,3 +19,4 @@ Stay hungry, stay foolish. Monitoring Zero Downtime Deployment UX Optimization D
 Act as if what you do makes a difference. It does. Microservices Zero Downtime Deployment Cloud Functions Logging Great things never come from comfort zones. Replica Set Code Review Backend Framework
 JWT Frontend Load Balancing Logging Kafka The only way to do great work is to love what you do. Opportunities don't happen. You create them. OAuth Deployment Python Event-driven Architecture
 Monitoring DevOps Machine Learning UX Optimization Database Indexing
+Containerization Load Testing The only way to do great work is to love what you do. Scalability Kafka Data Pipeline

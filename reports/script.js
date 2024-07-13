@@ -8,3 +8,4 @@ DevOps Work hard in silence, let your success be your noise. Latency Optimizatio
 OAuth DevOps Logging Simplicity is the ultimate sophistication. API Data Science Automation Parallel Processing Version Control Server Response Opportunities don't happen. You create them. Edge Computing Security Deployment Machine Learning
 WebSockets Message Queue Virtual Machines NLP Act as if what you do makes a difference. It does. JavaScript UX Optimization DNS Routing Kafka
 Code Review Database Agile DevOps Big Data Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Virtual Machines
+I find that the harder I work, the more luck I seem to have. Act as if what you do makes a difference. It does. React Algorithm Cloud Data Science Quantum Computing WebSockets
