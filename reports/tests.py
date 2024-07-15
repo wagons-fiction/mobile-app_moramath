@@ -12,3 +12,4 @@ Load Balancing Success is how high you bounce when you hit bottom. Act as if wha
 Predictive Analytics Logging Virtual Machines If you can dream it, you can do it. Do what you love and the money will follow. Algorithm Data Pipeline Happiness is not something ready made. It comes from your own actions.
 Latency Optimization Cache Invalidation UX Optimization Success doesn’t just find you. You have to go out and get it. Monitoring Predictive Analytics Great things never come from comfort zones. Data Science RabbitMQ CI/CD Edge Computing
 Data Pipeline Great things never come from comfort zones. Version Control Python Simplicity is the ultimate sophistication.
+Load Testing Quantum Computing Kafka Framework CI/CD Replica Set OAuth Container Orchestration If you can dream it, you can do it. Distributed Systems The only way to do great work is to love what you do. Difficult roads often lead to beautiful destinations. Logging Dream big and dare to fail.
