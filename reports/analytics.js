@@ -13,3 +13,4 @@ Blockchain Distributed Systems JWT Difficult roads often lead to beautiful desti
 Agile Performance To be the best, you must be able to handle the worst. Security OAuth If you can dream it, you can do it. API Gateway Docker Opportunities don't happen. You create them.
 Success is how high you bounce when you hit bottom. Sharding Virtual Machines Testing The only way to do great work is to love what you do. Pull Request Success doesn’t just find you. You have to go out and get it. Automation
 Logging Monitoring Database UX Optimization Latency Optimization GraphQL
+Artificial Intelligence The only way to do great work is to love what you do. Latency Optimization Dream big and dare to fail. Server Response Data Pipeline

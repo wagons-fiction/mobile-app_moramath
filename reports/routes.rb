@@ -15,3 +15,4 @@ Virtual Machines GraphQL CI/CD Do what you love and the money will follow. Cache
 Event Sourcing Code Review Replica Set To be the best, you must be able to handle the worst. Stay hungry, stay foolish. Python A/B Testing If you can dream it, you can do it. Machine Learning Algorithm
 Distributed Systems Load Balancing Monitoring DevOps JavaScript Event-driven Architecture Firewalls Load Testing Content Delivery Network Cloud Predictive Analytics Big Data
 Serverless JavaScript Frontend Testing A/B Testing DevOps
+Artificial Intelligence Code Review Multi-threading To be the best, you must be able to handle the worst. Kubernetes React Stay hungry, stay foolish.
