@@ -10,3 +10,4 @@ I find that the harder I work, the more luck I seem to have. Content Delivery Ne
 WebSockets Great things never come from comfort zones. Opportunities don't happen. You create them. Algorithm Lambda Functions
 Microservices Do what you love and the money will follow. If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. API Gateway
 Lambda Functions Cloud Success is not in what you have, but who you are. OAuth Data Pipeline Serverless
+Simplicity is the ultimate sophistication. Cache Invalidation Content Delivery Network Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. Distributed Systems Frontend If you can dream it, you can do it.
