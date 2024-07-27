@@ -13,3 +13,4 @@ DevOps Code Review Work hard in silence, let your success be your noise. Automat
 Version Control Opportunities don't happen. You create them. Data Pipeline Quantum Computing DNS Routing Monitoring Load Testing JWT
 IoT Serverless Database Containerization DevOps GraphQL Simplicity is the ultimate sophistication.
 Performance Serverless I find that the harder I work, the more luck I seem to have. UX Optimization Logging Quantum Computing
+Neural Networks Version Control Data Science Opportunities don't happen. You create them. Replica Set Event Sourcing
