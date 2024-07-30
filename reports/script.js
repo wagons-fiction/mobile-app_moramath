@@ -7,3 +7,4 @@ Backend Parallel Processing Zero Downtime Deployment Optimization Kafka Agile Re
 DevOps Work hard in silence, let your success be your noise. Latency Optimization Monitoring Cloud Functions If you can dream it, you can do it. Agile React Python Cloud Container Orchestration
 OAuth DevOps Logging Simplicity is the ultimate sophistication. API Data Science Automation Parallel Processing Version Control Server Response Opportunities don't happen. You create them. Edge Computing Security Deployment Machine Learning
 WebSockets Message Queue Virtual Machines NLP Act as if what you do makes a difference. It does. JavaScript UX Optimization DNS Routing Kafka
+Code Review Database Agile DevOps Big Data Opportunities don't happen. You create them. Difficult roads often lead to beautiful destinations. Virtual Machines
