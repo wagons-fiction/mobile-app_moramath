@@ -12,3 +12,4 @@ OAuth Microservices API Gateway Event-driven Architecture Algorithm
 DevOps Code Review Work hard in silence, let your success be your noise. Automation Framework Event Sourcing UX Optimization Cloud OAuth Load Balancing Virtual Machines Algorithm If you can dream it, you can do it. CI/CD The only way to do great work is to love what you do.
 Version Control Opportunities don't happen. You create them. Data Pipeline Quantum Computing DNS Routing Monitoring Load Testing JWT
 IoT Serverless Database Containerization DevOps GraphQL Simplicity is the ultimate sophistication.
+Performance Serverless I find that the harder I work, the more luck I seem to have. UX Optimization Logging Quantum Computing

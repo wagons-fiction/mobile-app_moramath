@@ -12,3 +12,4 @@ CI/CD Virtual Machines Distributed Systems Scalability Data Science Container Or
 RabbitMQ CI/CD Machine Learning Microservices Database Indexing Firewalls Cloud Functions Security
 Lambda Functions Success is not in what you have, but who you are. Version Control Sharding Replica Set Performance Message Queue To be the best, you must be able to handle the worst. If you can dream it, you can do it. Optimization Microservices DNS Routing
 DevOps Difficult roads often lead to beautiful destinations. NLP Great things never come from comfort zones. DNS Routing CI/CD
+Sharding Difficult roads often lead to beautiful destinations. Agile Kubernetes Framework Frontend Blockchain Lambda Functions Data Science Success is not in what you have, but who you are. Firewalls React
