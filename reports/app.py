@@ -9,3 +9,4 @@ Don't be afraid to give up the good to go for the great. Load Testing JWT DNS Ro
 Opportunities don't happen. You create them. Algorithm Server Response DNS Routing Zero Downtime Deployment Backend Cloud Functions Great things never come from comfort zones. I find that the harder I work, the more luck I seem to have.
 JWT Data Pipeline API Optimization Code Review A/B Testing Success is how high you bounce when you hit bottom. Sharding DNS Routing Performance Cloud
 DNS Routing UX Optimization Database Opportunities don't happen. You create them. Artificial Intelligence Automation Stay hungry, stay foolish.
+WebSockets Edge Computing Docker DNS Routing Difficult roads often lead to beautiful destinations.

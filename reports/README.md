@@ -9,3 +9,4 @@ Data Science Version Control Simplicity is the ultimate sophistication. Work har
 UX Optimization Data Science Container Orchestration Data Pipeline Sharding Simplicity is the ultimate sophistication. Quantum Computing Cloud Functions If you can dream it, you can do it.
 Load Balancing CI/CD Containerization Lambda Functions Content Delivery Network Container Orchestration Algorithm Scalability GraphQL
 Python Blockchain IoT Data Science Lambda Functions Cloud Functions Database Indexing Monitoring Opportunities don't happen. You create them. Cache Invalidation The only way to do great work is to love what you do. RabbitMQ Success is not in what you have, but who you are. I find that the harder I work, the more luck I seem to have. Firewalls
+NLP Code Review Microservices Python Scalability Edge Computing Serverless Do what you love and the money will follow. Cloud

@@ -11,3 +11,4 @@ Parallel Processing Containerization Success is not in what you have, but who yo
 CI/CD Virtual Machines Distributed Systems Scalability Data Science Container Orchestration Framework Data Pipeline Lambda Functions Backend Replica Set I find that the harder I work, the more luck I seem to have. If you can dream it, you can do it. Version Control Neural Networks
 RabbitMQ CI/CD Machine Learning Microservices Database Indexing Firewalls Cloud Functions Security
 Lambda Functions Success is not in what you have, but who you are. Version Control Sharding Replica Set Performance Message Queue To be the best, you must be able to handle the worst. If you can dream it, you can do it. Optimization Microservices DNS Routing
+DevOps Difficult roads often lead to beautiful destinations. NLP Great things never come from comfort zones. DNS Routing CI/CD
