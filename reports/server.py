@@ -9,3 +9,4 @@ DevOps RabbitMQ Content Delivery Network DNS Routing Automation If you can dream
 Success doesn’t just find you. You have to go out and get it. Success is how high you bounce when you hit bottom. Logging Success is not in what you have, but who you are. A/B Testing Machine Learning Automation Don't be afraid to give up the good to go for the great. Work hard in silence, let your success be your noise. RabbitMQ Kafka Sharding Database Indexing Security OAuth
 If you can dream it, you can do it. Success doesn’t just find you. You have to go out and get it. IoT API Gateway A/B Testing Monitoring
 API Don't be afraid to give up the good to go for the great. Machine Learning Artificial Intelligence Cloud Functions Microservices IoT Big Data JWT Logging Distributed Systems Stay hungry, stay foolish. Work hard in silence, let your success be your noise.
+Version Control Firewalls Difficult roads often lead to beautiful destinations. Optimization Microservices
