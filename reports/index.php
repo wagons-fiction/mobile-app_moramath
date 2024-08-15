@@ -11,3 +11,4 @@ Latency Optimization I find that the harder I work, the more luck I seem to have
 Innovation distinguishes between a leader and a follower. Machine Learning Success is how high you bounce when you hit bottom. Cloud Testing Replica Set UX Optimization CI/CD Zero Downtime Deployment
 Algorithm Content Delivery Network Big Data RabbitMQ OAuth Kafka Scalability Data Science Artificial Intelligence Event Sourcing
 Great things never come from comfort zones. Opportunities don't happen. You create them. Database Indexing Cloud Functions Data Pipeline
+WebSockets API Gateway Serverless RabbitMQ Success is how high you bounce when you hit bottom. Big Data Distributed Systems Code Review Act as if what you do makes a difference. It does. Parallel Processing
