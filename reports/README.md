@@ -7,3 +7,4 @@ Stay hungry, stay foolish. OAuth Difficult roads often lead to beautiful destina
 Sharding Container Orchestration Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Backend Artificial Intelligence JWT Message Queue Cloud Functions
 Data Science Version Control Simplicity is the ultimate sophistication. Work hard in silence, let your success be your noise. DevOps Kafka Do what you love and the money will follow. UX Optimization Cloud Functions Scalability Deployment Kubernetes Event Sourcing API Act as if what you do makes a difference. It does.
 UX Optimization Data Science Container Orchestration Data Pipeline Sharding Simplicity is the ultimate sophistication. Quantum Computing Cloud Functions If you can dream it, you can do it.
+Load Balancing CI/CD Containerization Lambda Functions Content Delivery Network Container Orchestration Algorithm Scalability GraphQL
