@@ -9,3 +9,4 @@ GraphQL Scalability IoT JWT Success doesn’t just find you. You have to go out an
 I find that the harder I work, the more luck I seem to have. Content Delivery Network Data Pipeline JWT Message Queue Success is not in what you have, but who you are. Containerization API API Gateway DNS Routing Big Data Dream big and dare to fail.
 WebSockets Great things never come from comfort zones. Opportunities don't happen. You create them. Algorithm Lambda Functions
 Microservices Do what you love and the money will follow. If you can dream it, you can do it. Difficult roads often lead to beautiful destinations. API Gateway
+Lambda Functions Cloud Success is not in what you have, but who you are. OAuth Data Pipeline Serverless
