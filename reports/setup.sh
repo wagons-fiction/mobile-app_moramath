@@ -9,3 +9,4 @@ Innovation distinguishes between a leader and a follower. Algorithm API Frontend
 Message Queue Firewalls Agile Stay hungry, stay foolish. Database Indexing
 Database Agile DevOps Load Balancing Don't be afraid to give up the good to go for the great. Cache Invalidation API Gateway Simplicity is the ultimate sophistication. Logging Containerization Content Delivery Network
 OAuth Microservices API Gateway Event-driven Architecture Algorithm
+DevOps Code Review Work hard in silence, let your success be your noise. Automation Framework Event Sourcing UX Optimization Cloud OAuth Load Balancing Virtual Machines Algorithm If you can dream it, you can do it. CI/CD The only way to do great work is to love what you do.
