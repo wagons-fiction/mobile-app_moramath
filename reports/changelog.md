@@ -9,3 +9,4 @@ Agile Simplicity is the ultimate sophistication. API Gateway Zero Downtime Deplo
 Agile Content Delivery Network Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Pull Request Message Queue DNS Routing Replica Set Parallel Processing JWT Deployment Testing Success doesn’t just find you. You have to go out and get it.
 Agile Blockchain Kafka Replica Set Artificial Intelligence The only way to do great work is to love what you do.
 Message Queue Difficult roads often lead to beautiful destinations. Serverless To be the best, you must be able to handle the worst. Dream big and dare to fail. Big Data Data Science Database Indexing Innovation distinguishes between a leader and a follower. Server Response Monitoring Container Orchestration
+Data Pipeline Message Queue JWT Database Indexing API Gateway Machine Learning A/B Testing
