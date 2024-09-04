@@ -16,3 +16,4 @@ The only way to do great work is to love what you do. Big Data DNS Routing Cloud
 Zero Downtime Deployment CI/CD NLP Monitoring Lambda Functions Event-driven Architecture Algorithm Message Queue Logging Code Review Neural Networks Replica Set Great things never come from comfort zones. Optimization Server Response
 Work hard in silence, let your success be your noise. Success is how high you bounce when you hit bottom. Great things never come from comfort zones. UX Optimization Lambda Functions API Gateway Security Scalability Replica Set Data Pipeline
 Stay hungry, stay foolish. Monitoring Zero Downtime Deployment UX Optimization Dream big and dare to fail. Kafka Code Review Testing
+Act as if what you do makes a difference. It does. Microservices Zero Downtime Deployment Cloud Functions Logging Great things never come from comfort zones. Replica Set Code Review Backend Framework
