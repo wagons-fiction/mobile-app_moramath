@@ -11,3 +11,4 @@ Virtual Machines NLP Neural Networks Simplicity is the ultimate sophistication. 
 Algorithm If you can dream it, you can do it. React Lambda Functions Work hard in silence, let your success be your noise. Performance Machine Learning
 Virtual Machines React Machine Learning DevOps Scalability JavaScript Simplicity is the ultimate sophistication. Zero Downtime Deployment
 Serverless Security Simplicity is the ultimate sophistication. Happiness is not something ready made. It comes from your own actions. Sharding Content Delivery Network Message Queue A/B Testing Success is not in what you have, but who you are. Data Pipeline
+GraphQL Security DevOps Neural Networks Serverless IoT Logging Algorithm Framework
