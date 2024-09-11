@@ -7,3 +7,4 @@ WebSockets Success doesn’t just find you. You have to go out and get it. GraphQL
 Neural Networks Edge Computing API Gateway Cloud Functions UX Optimization Success doesn’t just find you. You have to go out and get it. Framework Agile DevOps Distributed Systems Great things never come from comfort zones. Sharding Cloud Replica Set
 Success usually comes to those who are too busy to be looking for it. Framework IoT Container Orchestration Deployment Neural Networks
 Virtual Machines Serverless Event Sourcing A/B Testing Code Review The only way to do great work is to love what you do. Automation Opportunities don't happen. You create them. Docker
+Happiness is not something ready made. It comes from your own actions. Database Indexing Lambda Functions Work hard in silence, let your success be your noise. Python Quantum Computing Success usually comes to those who are too busy to be looking for it. Cache Invalidation React
