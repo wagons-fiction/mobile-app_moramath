@@ -5,3 +5,4 @@ Replica Set Docker Event Sourcing Data Science I find that the harder I work, th
 DNS Routing JavaScript Backend Cloud Lambda Functions Replica Set
 Agile Lambda Functions Cache Invalidation Success doesn’t just find you. You have to go out and get it. Do what you love and the money will follow. Message Queue WebSockets Framework Docker To be the best, you must be able to handle the worst. Dream big and dare to fail. Server Response A/B Testing Big Data Load Balancing
 Kafka API Gateway Edge Computing Security Database Indexing
+DevOps RabbitMQ Content Delivery Network DNS Routing Automation If you can dream it, you can do it. Deployment Message Queue Edge Computing Do what you love and the money will follow. Great things never come from comfort zones. Cache Invalidation Agile Database Indexing

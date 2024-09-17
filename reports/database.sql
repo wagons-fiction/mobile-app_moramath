@@ -9,3 +9,4 @@ Cloud A/B Testing JWT Python Load Balancing Kafka Success is how high you bounce
 A/B Testing Sharding Event Sourcing Blockchain NLP Zero Downtime Deployment WebSockets Monitoring Data Pipeline Artificial Intelligence Firewalls Success usually comes to those who are too busy to be looking for it.
 Virtual Machines NLP Neural Networks Simplicity is the ultimate sophistication. A/B Testing Automation Monitoring OAuth Parallel Processing
 Algorithm If you can dream it, you can do it. React Lambda Functions Work hard in silence, let your success be your noise. Performance Machine Learning
+Virtual Machines React Machine Learning DevOps Scalability JavaScript Simplicity is the ultimate sophistication. Zero Downtime Deployment
