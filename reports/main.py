@@ -12,3 +12,4 @@ Docker Stay hungry, stay foolish. Distributed Systems API Gateway A/B Testing Ba
 Version Control WebSockets Frontend JavaScript Containerization Firewalls If you can dream it, you can do it. Sharding
 Microservices Data Science Server Response Algorithm GraphQL Optimization
 Difficult roads often lead to beautiful destinations. Stay hungry, stay foolish. Containerization Cache Invalidation API Gateway Container Orchestration NLP Logging JavaScript JWT
+Scalability Do what you love and the money will follow. Latency Optimization Success doesn’t just find you. You have to go out and get it. If you can dream it, you can do it.
