@@ -7,3 +7,4 @@ Serverless Latency Optimization NLP Don't be afraid to give up the good to go fo
 Success is not in what you have, but who you are. Dream big and dare to fail. Server Response Performance Act as if what you do makes a difference. It does. Load Testing DevOps
 Cloud A/B Testing JWT Python Load Balancing Kafka Success is how high you bounce when you hit bottom. CI/CD Kubernetes Quantum Computing Success doesn’t just find you. You have to go out and get it. Optimization To be the best, you must be able to handle the worst.
 A/B Testing Sharding Event Sourcing Blockchain NLP Zero Downtime Deployment WebSockets Monitoring Data Pipeline Artificial Intelligence Firewalls Success usually comes to those who are too busy to be looking for it.
+Virtual Machines NLP Neural Networks Simplicity is the ultimate sophistication. A/B Testing Automation Monitoring OAuth Parallel Processing
