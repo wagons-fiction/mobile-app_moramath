@@ -2,3 +2,4 @@ Simplicity is the ultimate sophistication. Database Load Testing Monitoring Work
 Agile Success doesn’t just find you. You have to go out and get it. I find that the harder I work, the more luck I seem to have. Security Backend Message Queue A/B Testing
 Machine Learning Don't be afraid to give up the good to go for the great. Replica Set Stay hungry, stay foolish. Algorithm I find that the harder I work, the more luck I seem to have. Optimization Agile Monitoring JavaScript Microservices Lambda Functions Parallel Processing Big Data Cache Invalidation
 IoT Quantum Computing Edge Computing Predictive Analytics The only way to do great work is to love what you do. Database Indexing API Gateway Testing Microservices If you can dream it, you can do it. Great things never come from comfort zones.
+A/B Testing Optimization Logging NLP Success is how high you bounce when you hit bottom. React Server Response Automation
