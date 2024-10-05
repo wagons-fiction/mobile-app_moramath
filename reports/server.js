@@ -5,3 +5,4 @@ Container Orchestration Success is how high you bounce when you hit bottom. Back
 Automation Neural Networks Database Indexing A/B Testing IoT NLP Blockchain Lambda Functions
 WebSockets Success doesn’t just find you. You have to go out and get it. GraphQL Parallel Processing To be the best, you must be able to handle the worst. Framework Big Data Event Sourcing Database Indexing Content Delivery Network Success is how high you bounce when you hit bottom. NLP Simplicity is the ultimate sophistication. Database Backend
 Neural Networks Edge Computing API Gateway Cloud Functions UX Optimization Success doesn’t just find you. You have to go out and get it. Framework Agile DevOps Distributed Systems Great things never come from comfort zones. Sharding Cloud Replica Set
+Success usually comes to those who are too busy to be looking for it. Framework IoT Container Orchestration Deployment Neural Networks
