@@ -7,3 +7,4 @@ Big Data Performance Message Queue Success is not in what you have, but who you 
 A/B Testing Replica Set Docker DNS Routing RabbitMQ UX Optimization
 Big Data Framework Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. JWT Backend Logging Opportunities don't happen. You create them. Performance
 Code Review Automation Security Python Testing Serverless Database Zero Downtime Deployment Cache Invalidation Backend Machine Learning
+Latency Optimization I find that the harder I work, the more luck I seem to have. DNS Routing API Gateway Server Response Container Orchestration React Opportunities don't happen. You create them. UX Optimization Lambda Functions Parallel Processing Python Difficult roads often lead to beautiful destinations. Predictive Analytics
