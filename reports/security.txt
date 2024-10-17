@@ -3,3 +3,4 @@ React Docker Sharding I find that the harder I work, the more luck I seem to hav
 Automation Code Review Distributed Systems Neural Networks Cloud Simplicity is the ultimate sophistication. Logging Act as if what you do makes a difference. It does.
 Great things never come from comfort zones. Logging Cloud UX Optimization Stay hungry, stay foolish. DevOps Data Science Frontend Cache Invalidation Serverless Containerization Performance Replica Set
 To be the best, you must be able to handle the worst. CI/CD Database Sharding Security Success is not in what you have, but who you are. Agile Microservices Simplicity is the ultimate sophistication. Parallel Processing
+Framework Opportunities don't happen. You create them. Pull Request Zero Downtime Deployment Automation Load Balancing Success is not in what you have, but who you are. Monitoring Scalability Lambda Functions Version Control Success is how high you bounce when you hit bottom.

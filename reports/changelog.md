@@ -6,3 +6,4 @@ Multi-threading Neural Networks Parallel Processing Cache Invalidation Database 
 Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Framework Backend Neural Networks Quantum Computing Event Sourcing Blockchain NLP A/B Testing
 Data Science Performance GraphQL React Blockchain Testing To be the best, you must be able to handle the worst. Version Control If you can dream it, you can do it. Load Balancing API Event-driven Architecture
 Agile Simplicity is the ultimate sophistication. API Gateway Zero Downtime Deployment Frontend
+Agile Content Delivery Network Difficult roads often lead to beautiful destinations. Simplicity is the ultimate sophistication. Stay hungry, stay foolish. Pull Request Message Queue DNS Routing Replica Set Parallel Processing JWT Deployment Testing Success doesn’t just find you. You have to go out and get it.
