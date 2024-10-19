@@ -9,3 +9,4 @@ Opportunities don't happen. You create them. DevOps Message Queue Machine Learni
 Database Indexing Work hard in silence, let your success be your noise. Load Balancing Data Science If you can dream it, you can do it.
 Opportunities don't happen. You create them. Frontend Distributed Systems Algorithm Backend Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. WebSockets
 Docker Stay hungry, stay foolish. Distributed Systems API Gateway A/B Testing Backend Simplicity is the ultimate sophistication. Framework Don't be afraid to give up the good to go for the great.
+Version Control WebSockets Frontend JavaScript Containerization Firewalls If you can dream it, you can do it. Sharding
