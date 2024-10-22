@@ -4,3 +4,4 @@ Success is not in what you have, but who you are. Scalability Load Testing Repli
 Sharding Dream big and dare to fail. Container Orchestration To be the best, you must be able to handle the worst. DNS Routing
 Database Indexing Quantum Computing Work hard in silence, let your success be your noise. Difficult roads often lead to beautiful destinations. Predictive Analytics Multi-threading Success is how high you bounce when you hit bottom. Containerization Load Balancing Cache Invalidation
 UX Optimization OAuth GraphQL Opportunities don't happen. You create them. Data Pipeline Edge Computing Monitoring Happiness is not something ready made. It comes from your own actions. Do what you love and the money will follow. Testing Sharding React Database Parallel Processing Version Control
+Python Cloud Functions Load Testing IoT Database
