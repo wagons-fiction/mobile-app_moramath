@@ -5,3 +5,4 @@ Performance Security GraphQL Load Testing Serverless Data Pipeline
 Virtual Machines Great things never come from comfort zones. Lambda Functions Server Response API Artificial Intelligence Replica Set OAuth Multi-threading Kafka Kubernetes Work hard in silence, let your success be your noise.
 Big Data Performance Message Queue Success is not in what you have, but who you are. React Replica Set Event-driven Architecture Database Indexing
 A/B Testing Replica Set Docker DNS Routing RabbitMQ UX Optimization
+Big Data Framework Success is not in what you have, but who you are. Simplicity is the ultimate sophistication. JWT Backend Logging Opportunities don't happen. You create them. Performance
