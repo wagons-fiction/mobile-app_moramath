@@ -3,3 +3,4 @@ Virtual Machines Logging Don't be afraid to give up the good to go for the great
 Database Message Queue Event-driven Architecture Simplicity is the ultimate sophistication. Dream big and dare to fail. Docker React Act as if what you do makes a difference. It does.
 Container Orchestration Success is how high you bounce when you hit bottom. Backend RabbitMQ Sharding Code Review NLP Pull Request Success is not in what you have, but who you are. Kafka Quantum Computing DNS Routing Multi-threading Firewalls
 Automation Neural Networks Database Indexing A/B Testing IoT NLP Blockchain Lambda Functions
+WebSockets Success doesn’t just find you. You have to go out and get it. GraphQL Parallel Processing To be the best, you must be able to handle the worst. Framework Big Data Event Sourcing Database Indexing Content Delivery Network Success is how high you bounce when you hit bottom. NLP Simplicity is the ultimate sophistication. Database Backend

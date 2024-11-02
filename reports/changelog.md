@@ -5,3 +5,4 @@ Replica Set Happiness is not something ready made. It comes from your own action
 Multi-threading Neural Networks Parallel Processing Cache Invalidation Database Server Response JWT Kubernetes Virtual Machines Docker Container Orchestration NLP If you can dream it, you can do it. Agile Event-driven Architecture
 Work hard in silence, let your success be your noise. Success is not in what you have, but who you are. Framework Backend Neural Networks Quantum Computing Event Sourcing Blockchain NLP A/B Testing
 Data Science Performance GraphQL React Blockchain Testing To be the best, you must be able to handle the worst. Version Control If you can dream it, you can do it. Load Balancing API Event-driven Architecture
+Agile Simplicity is the ultimate sophistication. API Gateway Zero Downtime Deployment Frontend
