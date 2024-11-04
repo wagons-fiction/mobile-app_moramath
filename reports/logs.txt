@@ -5,3 +5,4 @@ Serverless Firewalls Load Balancing Act as if what you do makes a difference. It
 Code Review Success doesn’t just find you. You have to go out and get it. Distributed Systems Dream big and dare to fail. JWT Kafka Message Queue Great things never come from comfort zones. Zero Downtime Deployment Algorithm Opportunities don't happen. You create them. Event Sourcing DevOps
 Load Balancing Pull Request Big Data IoT React WebSockets Sharding I find that the harder I work, the more luck I seem to have.
 API Gateway DevOps I find that the harder I work, the more luck I seem to have. Simplicity is the ultimate sophistication. RabbitMQ
+Artificial Intelligence Agile Cloud NLP Event-driven Architecture Difficult roads often lead to beautiful destinations.
