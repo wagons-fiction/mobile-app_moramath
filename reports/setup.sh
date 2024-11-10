@@ -4,3 +4,4 @@ Monitoring Serverless To be the best, you must be able to handle the worst. If y
 Opportunities don't happen. You create them. Deployment Cloud Functions Latency Optimization Multi-threading React Content Delivery Network Act as if what you do makes a difference. It does. Serverless Security
 Big Data React Firewalls Data Pipeline Predictive Analytics Virtual Machines API Great things never come from comfort zones.
 Quantum Computing Multi-threading Microservices Kafka Great things never come from comfort zones. Database Indexing Load Testing Virtual Machines Innovation distinguishes between a leader and a follower. Latency Optimization Distributed Systems Optimization JavaScript Backend UX Optimization
+Cloud Scalability Backend DevOps Distributed Systems WebSockets

@@ -7,3 +7,4 @@ Work hard in silence, let your success be your noise. Serverless Frontend Shardi
 Cloud Functions Code Review Firewalls Performance Monitoring Containerization OAuth Virtual Machines Sharding A/B Testing
 Opportunities don't happen. You create them. DevOps Message Queue Machine Learning Big Data
 Database Indexing Work hard in silence, let your success be your noise. Load Balancing Data Science If you can dream it, you can do it.
+Opportunities don't happen. You create them. Frontend Distributed Systems Algorithm Backend Simplicity is the ultimate sophistication. Difficult roads often lead to beautiful destinations. WebSockets
