@@ -6,3 +6,4 @@ Cache Invalidation Don't be afraid to give up the good to go for the great. Grea
 Work hard in silence, let your success be your noise. Serverless Frontend Sharding Predictive Analytics Code Review Kafka Backend Performance Great things never come from comfort zones. IoT Multi-threading Difficult roads often lead to beautiful destinations.
 Cloud Functions Code Review Firewalls Performance Monitoring Containerization OAuth Virtual Machines Sharding A/B Testing
 Opportunities don't happen. You create them. DevOps Message Queue Machine Learning Big Data
+Database Indexing Work hard in silence, let your success be your noise. Load Balancing Data Science If you can dream it, you can do it.
