@@ -3,3 +3,4 @@ Message Queue GraphQL Version Control Success is not in what you have, but who y
 Framework Version Control Success usually comes to those who are too busy to be looking for it. Testing Blockchain
 Testing Success is how high you bounce when you hit bottom. Virtual Machines WebSockets Frontend Code Review Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. UX Optimization
 Data Science Big Data RabbitMQ Algorithm Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. OAuth Backend Dream big and dare to fail.
+Success usually comes to those who are too busy to be looking for it. GraphQL IoT NLP Algorithm Monitoring Cloud Machine Learning Blockchain Firewalls Zero Downtime Deployment
