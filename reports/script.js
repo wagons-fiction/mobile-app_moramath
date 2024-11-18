@@ -2,3 +2,4 @@ Predictive Analytics Frontend Deployment JWT Big Data Containerization Microserv
 Opportunities don't happen. You create them. JWT UX Optimization Lambda Functions Success is how high you bounce when you hit bottom. Parallel Processing Simplicity is the ultimate sophistication. Load Testing Artificial Intelligence Success is not in what you have, but who you are.
 Event-driven Architecture Monitoring Cloud Functions API I find that the harder I work, the more luck I seem to have. Cloud Firewalls Blockchain Quantum Computing Machine Learning Zero Downtime Deployment
 Agile Python Machine Learning Cloud The only way to do great work is to love what you do. Quantum Computing
+Edge Computing CI/CD Parallel Processing Cloud Functions DevOps Frontend Kafka Performance Load Balancing Latency Optimization Success is how high you bounce when you hit bottom. Multi-threading Zero Downtime Deployment
