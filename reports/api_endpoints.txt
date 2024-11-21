@@ -4,3 +4,4 @@ Code Review Success is how high you bounce when you hit bottom. Act as if what y
 The only way to do great work is to love what you do. Sharding Database Indexing Database Success is not in what you have, but who you are. Message Queue Success usually comes to those who are too busy to be looking for it. OAuth Version Control Multi-threading Cloud Functions Load Testing Lambda Functions JWT Frontend
 API Gateway Artificial Intelligence Edge Computing If you can dream it, you can do it. GraphQL Logging Backend
 CI/CD Neural Networks Logging GraphQL OAuth
+Success usually comes to those who are too busy to be looking for it. Server Response Stay hungry, stay foolish. Replica Set Work hard in silence, let your success be your noise. Monitoring Act as if what you do makes a difference. It does. Dream big and dare to fail. Distributed Systems Cache Invalidation Big Data
