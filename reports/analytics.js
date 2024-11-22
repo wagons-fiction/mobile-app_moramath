@@ -2,3 +2,4 @@ Do what you love and the money will follow. Container Orchestration GraphQL Logg
 Message Queue GraphQL Version Control Success is not in what you have, but who you are. Happiness is not something ready made. It comes from your own actions. Multi-threading Predictive Analytics Neural Networks
 Framework Version Control Success usually comes to those who are too busy to be looking for it. Testing Blockchain
 Testing Success is how high you bounce when you hit bottom. Virtual Machines WebSockets Frontend Code Review Opportunities don't happen. You create them. Simplicity is the ultimate sophistication. UX Optimization
+Data Science Big Data RabbitMQ Algorithm Happiness is not something ready made. It comes from your own actions. Artificial Intelligence Opportunities don't happen. You create them. Work hard in silence, let your success be your noise. OAuth Backend Dream big and dare to fail.
