@@ -1,3 +1,4 @@
 Work hard in silence, let your success be your noise. Data Pipeline Backend Container Orchestration NLP Innovation distinguishes between a leader and a follower. Multi-threading Success is not in what you have, but who you are. JWT Microservices Latency Optimization Agile Artificial Intelligence API Gateway Code Review
 React Parallel Processing Happiness is not something ready made. It comes from your own actions. Virtual Machines Framework Monitoring Blockchain To be the best, you must be able to handle the worst. API DNS Routing Replica Set Algorithm Sharding Performance Database Indexing
 Success is not in what you have, but who you are. Scalability Load Testing Replica Set JWT If you can dream it, you can do it. Python Sharding Distributed Systems Do what you love and the money will follow.
+Sharding Dream big and dare to fail. Container Orchestration To be the best, you must be able to handle the worst. DNS Routing
