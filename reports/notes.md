@@ -1,3 +1,4 @@
 Difficult roads often lead to beautiful destinations. Load Balancing Distributed Systems Agile Algorithm Microservices
 Backend Framework JavaScript UX Optimization Logging Success is how high you bounce when you hit bottom. Edge Computing IoT Blockchain
 If you can dream it, you can do it. Kubernetes Act as if what you do makes a difference. It does. Message Queue OAuth Difficult roads often lead to beautiful destinations.
+Quantum Computing Opportunities don't happen. You create them. Act as if what you do makes a difference. It does. The only way to do great work is to love what you do. Logging Great things never come from comfort zones. Virtual Machines Big Data I find that the harder I work, the more luck I seem to have. OAuth Blockchain Event-driven Architecture UX Optimization Success doesn’t just find you. You have to go out and get it. API
