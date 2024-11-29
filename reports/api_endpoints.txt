@@ -2,3 +2,4 @@ Blockchain DevOps Success is not in what you have, but who you are. Optimization
 Data Science GraphQL Success doesn’t just find you. You have to go out and get it. Don't be afraid to give up the good to go for the great. Security Message Queue
 Code Review Success is how high you bounce when you hit bottom. Act as if what you do makes a difference. It does. Monitoring A/B Testing
 The only way to do great work is to love what you do. Sharding Database Indexing Database Success is not in what you have, but who you are. Message Queue Success usually comes to those who are too busy to be looking for it. OAuth Version Control Multi-threading Cloud Functions Load Testing Lambda Functions JWT Frontend
+API Gateway Artificial Intelligence Edge Computing If you can dream it, you can do it. GraphQL Logging Backend
