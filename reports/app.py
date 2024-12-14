@@ -1,2 +1,3 @@
 Backend DNS Routing Frontend Virtual Machines Cloud DevOps Automation Cache Invalidation UX Optimization Database Indexing
 To be the best, you must be able to handle the worst. Data Science NLP Success usually comes to those who are too busy to be looking for it. Cloud Cloud Functions Scalability Work hard in silence, let your success be your noise. Backend Difficult roads often lead to beautiful destinations.
+Dream big and dare to fail. Lambda Functions Latency Optimization Replica Set Innovation distinguishes between a leader and a follower. Containerization Work hard in silence, let your success be your noise. Event Sourcing Success is how high you bounce when you hit bottom. Docker UX Optimization
