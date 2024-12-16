@@ -3,3 +3,4 @@ Work hard in silence, let your success be your noise. Virtual Machines Testing D
 Database Testing Framework Machine Learning Predictive Analytics
 Python Do what you love and the money will follow. Frontend Pull Request Server Response Testing Replica Set Stay hungry, stay foolish.
 Cache Invalidation Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Agile Message Queue Artificial Intelligence Latency Optimization
+Work hard in silence, let your success be your noise. Serverless Frontend Sharding Predictive Analytics Code Review Kafka Backend Performance Great things never come from comfort zones. IoT Multi-threading Difficult roads often lead to beautiful destinations.
