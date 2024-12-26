@@ -1,2 +1,3 @@
 Microservices Version Control Distributed Systems IoT A/B Testing Machine Learning React Code Review Blockchain Docker Innovation distinguishes between a leader and a follower. Performance
 Opportunities don't happen. You create them. Blockchain Logging Kafka UX Optimization Scalability Innovation distinguishes between a leader and a follower. Cloud Functions Multi-threading A/B Testing Content Delivery Network CI/CD Distributed Systems
+Content Delivery Network Logging Data Pipeline Edge Computing WebSockets Machine Learning Event Sourcing Cloud Sharding Artificial Intelligence Dream big and dare to fail. NLP
