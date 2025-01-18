@@ -2,3 +2,4 @@ Optimization Innovation distinguishes between a leader and a follower. Sharding 
 Work hard in silence, let your success be your noise. Virtual Machines Testing Data Pipeline To be the best, you must be able to handle the worst. If you can dream it, you can do it. Opportunities don't happen. You create them. DevOps Deployment Agile Act as if what you do makes a difference. It does.
 Database Testing Framework Machine Learning Predictive Analytics
 Python Do what you love and the money will follow. Frontend Pull Request Server Response Testing Replica Set Stay hungry, stay foolish.
+Cache Invalidation Don't be afraid to give up the good to go for the great. Great things never come from comfort zones. Innovation distinguishes between a leader and a follower. Agile Message Queue Artificial Intelligence Latency Optimization
