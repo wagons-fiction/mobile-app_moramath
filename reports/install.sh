@@ -1,1 +1,2 @@
 I find that the harder I work, the more luck I seem to have. Agile Automation Data Pipeline Container Orchestration Algorithm Parallel Processing Quantum Computing Edge Computing JavaScript Pull Request Success doesn’t just find you. You have to go out and get it. Virtual Machines GraphQL
+Server Response DNS Routing Monitoring Great things never come from comfort zones. Agile Distributed Systems Kubernetes Dream big and dare to fail. Success usually comes to those who are too busy to be looking for it. Pull Request IoT
