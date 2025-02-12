@@ -1,0 +1,1 @@
+Optimization Innovation distinguishes between a leader and a follower. Sharding Microservices Work hard in silence, let your success be your noise. React GraphQL A/B Testing I find that the harder I work, the more luck I seem to have. Load Balancing Quantum Computing Lambda Functions Database Indexing Cloud
